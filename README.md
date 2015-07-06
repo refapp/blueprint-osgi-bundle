@@ -1,0 +1,1 @@
+# blueprint-osgi-bundle
